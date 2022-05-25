@@ -1,0 +1,30 @@
+{
+  "name": "ded5-sheet-front",
+  "version": "1.0.0",
+  "description": "An application that creates and stores D&D 5 sheets",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Masih-Saldanha/ded5-sheet-front.git"
+  },
+  "keywords": [
+    "D&D",
+    "D&D5",
+    "d&d",
+    "d&d5"
+  ],
+  "author": "Masih Saldanha Xavier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Masih-Saldanha/ded5-sheet-front/issues"
+  },
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-scripts": "^5.0.1"
+  }
+}
